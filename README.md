@@ -15,7 +15,7 @@ and effectively implement diverse techniques:
         - apply shap and other approaches for model explanation 
 [Git Repo](https://github.com/KatyKasilina/StumbleUpon-Evergreen-Classification)
 - **Written Digit Recognition**  
-First task in NN  
+First task in NN    
 [Git Repo](https://github.com/KatyKasilina/written_digit_recognition)
 
 
