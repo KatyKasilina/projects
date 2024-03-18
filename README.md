@@ -2,8 +2,26 @@ Here is some of my work
 
 -----------------------
 
-## Base ML and Data Exploration
+Base ML and Data Exploration
 ----------------------------
+##### Projects
+
+- **StumbleUpon Evergreen MLE**  
+The primary objective of this project was to establish a well-organized project structure 
+and effectively implement diverse techniques:  
+        - pytest with fixtures  
+        - config handaling with Hydra  
+        - splitting train and inference
+        - apply shap and other approaches for model explanation 
+[Git Repo](https://github.com/KatyKasilina/StumbleUpon-Evergreen-Classification)
+- **Written Digit Recognition**  
+First task in NN  
+[Git Repo](https://github.com/KatyKasilina/written_digit_recognition)
+
+
+##### EDA
+- **Witch trials on European map** 
+[Kaggle notebook](https://www.kaggle.com/code/abramova/witch-trials-on-european-map)  
 
 
 
